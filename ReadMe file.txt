@@ -1,0 +1,1 @@
+To execute the codes in this document , open the entire Complete Source Code folder in your choice of python ide. The classifiaction folder contains the input dataset as well so no need to seperately define path for that file. 
